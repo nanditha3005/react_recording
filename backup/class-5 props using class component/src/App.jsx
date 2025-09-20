@@ -1,10 +1,10 @@
-import User from "./UserList/User";
+import CompA from "./Component/CompA";
 let App=()=>{
 
   return <div>
             <h1>App Component</h1>
             <hr />
-            <User/>
+            <CompA/>
          </div>
 }
 export default App;

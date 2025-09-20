@@ -1,10 +1,10 @@
-import User from "./UserList/User";
+import Counter from "./Counter";
 let App=()=>{
-
+  
   return <div>
             <h1>App Component</h1>
             <hr />
-            <User/>
+            <Counter/>
          </div>
 }
 export default App;
